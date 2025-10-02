@@ -1,11 +1,3 @@
-/**
- * Road Simulator
- * @name Holden Holzer
- * @email holden.holzer@ucalgary.ca
- *
- * Modified from CPSC-453 assignment template files
- */
-
 #pragma once
 
 #include <glm/glm.hpp>
@@ -16,7 +8,7 @@
 #define GREEN_1 0.5f
 #define RED_1 0.5f
 
-class GraphicObject;
+class GraphicObject; // data structure for storing output data (you will need to replace this if you intend to use this code) 
 
 enum CellType
 {
