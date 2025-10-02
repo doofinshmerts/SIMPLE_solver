@@ -1,13 +1,6 @@
-/**
- * Road Simulator
- * @name Holden Holzer
- * @email holden.holzer@ucalgary.ca
- *
- * Modified from CPSC-453 assignment template files
- */
 
-#include "SimulationManager.h"
-#include "GraphicObject.h"
+#include "SimulationManager.h" // replace this with you simulation driver
+#include "GraphicObject.h" // replace this with your data structure for storing plot results
 
 #include <omp.h>
 
